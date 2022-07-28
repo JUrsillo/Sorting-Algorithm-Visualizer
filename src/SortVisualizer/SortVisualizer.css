@@ -1,0 +1,25 @@
+.container {
+    position: absolute;
+    left: 45px;
+    right: 45px;
+    top: 20px;
+    bottom: 20px;
+}
+
+.array-bar {
+
+    width: 2px;
+    background-color: darkblue;
+    display: inline-block;
+    margin: 0 1px;
+
+}
+
+.box {
+    position: absolute;
+    left: 45px;
+    right: 45px;
+    top: 100px;
+    bottom: 100px;
+}
+
